@@ -1,0 +1,9 @@
+<?php 
+include('../includes/header.php'); 
+?>
+<?php 
+include('../includes/feedback-section.php'); 
+?>
+<?php 
+include('../includes/footer.php'); 
+?>

@@ -1,0 +1,9 @@
+<?php 
+include('../includes/header.php'); 
+?>
+<?php 
+include('../includes/about-section.php'); 
+?>
+<?php 
+include('../includes/footer.php'); 
+?>

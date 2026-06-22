@@ -1,0 +1,9 @@
+<?php 
+include('../includes/header.php'); 
+?>
+<?php 
+include('../includes/contact-section.php'); 
+?>
+<?php 
+include('../includes/footer.php'); 
+?>
